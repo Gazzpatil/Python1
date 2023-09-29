@@ -13,5 +13,5 @@ if ash.endswith(gazz):
     print("the number is Automorphic ")
 
 else:
-    print("the number is not automorphic ")    
+    print("the number is not automorphic dndnc kcmkxm")    
 
